@@ -4,6 +4,6 @@
 - Based in **Poland**  
 - [aykutemreyalcin.com](https://aykutemreyalcin.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aykutemreyalcin)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aykutemreyalcin&theme=dark)](https://git.io/streak-stats)
 
 ![snake gif](https://github.com/aykutemreyalcin/aykutemreyalcin/blob/output/github-snake-dark.svg)
