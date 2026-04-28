@@ -3,7 +3,6 @@
 - Working on Backend, Cybersecurity and Aviation
 - Based in **Poland**  
 - [aykutemreyalcin.com](https://aykutemreyalcin.com)
-- Hell Yeah
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=aykutemreyalcin)](https://git.io/streak-stats)
 
