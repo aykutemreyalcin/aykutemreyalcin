@@ -1,6 +1,6 @@
 # Aykut
 
-- Working on Backend, Cybersecurity and Aviation
+- Working on Backend, Frontend, Cybersecurity and Aviation
 - Based in **Poland**  
 - [aykutemreyalcin.com](https://aykutemreyalcin.com)
 
