@@ -173,7 +173,6 @@ Nothing connected yet.
 ## Reach me
 
 - Site: [aykutemreyalcin.com](https://aykutemreyalcin.com)
-- Products: [fosapps.com](https://fosapps.com) and [enretag.com](https://enretag.com)
 - Open to interesting backend problems, especially the ones involving other people's APIs
 
 <sub>The status board and activity log on this page rewrite themselves from GitHub Actions.
