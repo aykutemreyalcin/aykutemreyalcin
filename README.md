@@ -91,58 +91,6 @@ flowchart LR
 
 ---
 
-## In transit
-
-What I am actively working on, tracked the way I track everything else.
-
-<p align="center">
-  <img src="assets/tracking.svg" alt="Progress on active projects" width="880">
-</p>
-
----
-
-## Selected work
-
-**Products**
-
-| | |
-|---|---|
-| [**Fos&nbsp;Apps**](https://fosapps.com) | Five Shopify utilities: a product recycle bin, scheduled tag removal, serial number and warranty tracking, product change history, and quantity break discounts |
-| [**Enretag**](https://enretag.com) | Fulfillment platform behind 1.5M+ shipped orders, with real-time tracking, inventory sync and multi-channel order intake |
-
-**Repositories**
-
-| | |
-|---|---|
-| [`ata-rag-chat-be`](https://github.com/aykutemreyalcin/ata-rag-chat-be) / [`fe`](https://github.com/aykutemreyalcin/ata-rag-chat-fe) | Retrieval-augmented chat, Java backend with a TypeScript client |
-| [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be) / [`fe`](https://github.com/aykutemreyalcin/internship_application_coordinator_fe) | Application tracking system, Spring plus TypeScript |
-| [`repo_checker_be`](https://github.com/aykutemreyalcin/repo_checker_be) / [`fe`](https://github.com/aykutemreyalcin/repo_checker_fe) | GitHub repository inspector |
-| [`ai_agent`](https://github.com/aykutemreyalcin/ai_agent) | Python agent runtime |
-| [`boxMeter`](https://github.com/aykutemreyalcin/boxMeter) | Shopify app for parcel dimensioning |
-| [`TorchLink`](https://github.com/aykutemreyalcin/TorchLink) | Swift iOS app |
-
-<details>
-<summary><b>Security toolkit</b> - the Python side of my brain</summary>
-
-<br>
-
-| | |
-|---|---|
-| [`Evil-Twin-Project`](https://github.com/aykutemreyalcin/Evil-Twin-Project) | Raspberry Pi rogue access point with client monitoring |
-| [`mitm_ettercap`](https://github.com/aykutemreyalcin/mitm_ettercap) | Man-in-the-middle automation over nmap and ettercap |
-| [`network_scanner`](https://github.com/aykutemreyalcin/network_scanner) | Network sweep for Linux |
-| [`port_scanner`](https://github.com/aykutemreyalcin/port_scanner) | Threaded port scanner |
-| [`self_packet_sniffer`](https://github.com/aykutemreyalcin/self_packet_sniffer) | Sniff your own traffic and see what leaks |
-| [`Directory_Brute_forcer`](https://github.com/aykutemreyalcin/Directory_Brute_forcer) | Directory discovery tool |
-| [`File_Encryptor`](https://github.com/aykutemreyalcin/File_Encryptor) | Symmetric file encryption |
-| [`Bruteforce-sha-256`](https://github.com/aykutemreyalcin/Bruteforce-sha-256) | SHA-256 dictionary cracker |
-
-Written to understand attacks, not to run them. Everything here targets hardware I own.
-
-</details>
-
----
-
 ## Stack
 
 **Backend**
