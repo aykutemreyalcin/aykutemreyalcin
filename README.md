@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-radar.svg" alt="Aykut Emre Yalcin - backend engineer" width="880">
+  <img src="assets/hero-radar.svg" alt="Aykut Emre Yalcin - Developer" width="880">
 </p>
 
 <p align="center">
