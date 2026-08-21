@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="330" viewBox="0 0 880 330" role="img" aria-labelledby="trkTitle trkDesc">
+  <title id="trkTitle">Shipment tracking for active projects</title>
+  <desc id="trkDesc">Progress bars showing how far each active project has moved between packed, in transit and delivered.</desc>
+
+  <style>
+    svg {
+      --bg: #ffffff;
+      --card: #f6f8fa;
+      --line: #d0d7de;
+      --fg: #1f2328;
+      --muted: #6e7781;
+      --accent: #4b91f1;
+      --green: #2da44e;
+      --orange: #bc4c00;
+      --track: #e6eaef;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+        --bg: #0d1117;
+        --card: #161b22;
+        --line: #30363d;
+        --fg: #e6edf3;
+        --muted: #8b949e;
+        --accent: #64a1f4;
+        --green: #3fb950;
+        --orange: #f0883e;
+        --track: #21262d;
+      }
+    }
+    .bg     { fill: var(--bg); }
+    .stroke { stroke: var(--line); fill: none; }
+    .fg     { fill: var(--fg); }
+    .muted  { fill: var(--muted); }
+    .track  { fill: var(--track); }
+    .fill   { fill: var(--accent); }
+    .box    { fill: var(--orange); }
+    .grid   { stroke: var(--line); stroke-width: 1; opacity: 0.5; stroke-dasharray: 2 4; }
+    .mono   { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .name   { font-size: 12.5px; font-weight: 600; }
+    .sub    { font-size: 8.5px; letter-spacing: 0.05em; }
+    .tiny   { font-size: 9px; letter-spacing: 0.08em; }
+    .pulse  { stroke: var(--orange); fill: none; stroke-width: 1.4;
+              animation: pulse 2.2s ease-out infinite; }
+    @keyframes pulse {
+      0%   { r: 6px; opacity: 0.7; }
+      70%  { r: 14px; opacity: 0; }
+      100% { r: 14px; opacity: 0; }
+    }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="880" height="330" rx="16"/>
+  <rect class="stroke" x="0.5" y="0.5" width="879" height="329" rx="16"/>
+
+  <text class="mono tiny muted" x="30" y="34">SHIPMENT TRACKING</text>
+  <text class="mono tiny muted" x="850" y="34" text-anchor="end">WHAT I AM BUILDING RIGHT NOW</text>
+
+  <text class="mono tiny muted" x="250" y="56">PACKED</text>
+  <text class="mono tiny muted" x="490" y="56" text-anchor="middle">IN TRANSIT</text>
+  <text class="mono tiny muted" x="730" y="56" text-anchor="end">DELIVERED</text>
+
+  <line class="grid" x1="250" y1="64" x2="250" y2="304"/>
+  <line class="grid" x1="490" y1="64" x2="490" y2="304"/>
+  <line class="grid" x1="730" y1="64" x2="730" y2="304"/>
+
+  <!-- ===== enreship : 86% ===== -->
+  <text class="mono name fg"   x="30" y="76">enreship</text>
+  <text class="mono sub muted" x="30" y="89">carrier + fulfillment platform</text>
+  <rect class="track" x="250" y="68" width="480" height="8" rx="4"/>
+  <rect class="fill"  x="250" y="68" width="0" height="8" rx="4">
+    <animate attributeName="width" dur="1.6s" begin="0.1s" values="0;413" fill="freeze" repeatCount="1"/>
+  </rect>
+  <circle class="pulse" cx="663" cy="72" r="6"/>
+  <rect class="box" x="657" y="66" width="12" height="12" rx="3"/>
+  <text class="mono tiny muted" x="850" y="76" text-anchor="end">86%</text>
+
+  <!-- ===== fos apps : 72% ===== -->
+  <text class="mono name fg"   x="30" y="128">fos apps</text>
+  <text class="mono sub muted" x="30" y="141">5 shopify utilities</text>
+  <rect class="track" x="250" y="120" width="480" height="8" rx="4"/>
+  <rect class="fill"  x="250" y="120" width="0" height="8" rx="4">
+    <animate attributeName="width" dur="1.6s" begin="0.25s" values="0;346" fill="freeze" repeatCount="1"/>
+  </rect>
+  <circle class="pulse" cx="596" cy="124" r="6"/>
+  <rect class="box" x="590" y="118" width="12" height="12" rx="3"/>
+  <text class="mono tiny muted" x="850" y="128" text-anchor="end">72%</text>
+
+  <!-- ===== ata-rag-chat : 58% ===== -->
+  <text class="mono name fg"   x="30" y="180">ata-rag-chat</text>
+  <text class="mono sub muted" x="30" y="193">java rag backend + ts client</text>
+  <rect class="track" x="250" y="172" width="480" height="8" rx="4"/>
+  <rect class="fill"  x="250" y="172" width="0" height="8" rx="4">
+    <animate attributeName="width" dur="1.6s" begin="0.4s" values="0;278" fill="freeze" repeatCount="1"/>
+  </rect>
+  <circle class="pulse" cx="528" cy="176" r="6"/>
+  <rect class="box" x="522" y="170" width="12" height="12" rx="3"/>
+  <text class="mono tiny muted" x="850" y="180" text-anchor="end">58%</text>
+
+  <!-- ===== TorchLink : 41% ===== -->
+  <text class="mono name fg"   x="30" y="232">TorchLink</text>
+  <text class="mono sub muted" x="30" y="245">swift ios app</text>
+  <rect class="track" x="250" y="224" width="480" height="8" rx="4"/>
+  <rect class="fill"  x="250" y="224" width="0" height="8" rx="4">
+    <animate attributeName="width" dur="1.6s" begin="0.55s" values="0;197" fill="freeze" repeatCount="1"/>
+  </rect>
+  <circle class="pulse" cx="447" cy="228" r="6"/>
+  <rect class="box" x="441" y="222" width="12" height="12" rx="3"/>
+  <text class="mono tiny muted" x="850" y="232" text-anchor="end">41%</text>
+
+  <!-- ===== ai_agent : 27% ===== -->
+  <text class="mono name fg"   x="30" y="284">ai_agent</text>
+  <text class="mono sub muted" x="30" y="297">python agent runtime</text>
+  <rect class="track" x="250" y="276" width="480" height="8" rx="4"/>
+  <rect class="fill"  x="250" y="276" width="0" height="8" rx="4">
+    <animate attributeName="width" dur="1.6s" begin="0.7s" values="0;130" fill="freeze" repeatCount="1"/>
+  </rect>
+  <circle class="pulse" cx="380" cy="280" r="6"/>
+  <rect class="box" x="374" y="274" width="12" height="12" rx="3"/>
+  <text class="mono tiny muted" x="850" y="284" text-anchor="end">27%</text>
+</svg>

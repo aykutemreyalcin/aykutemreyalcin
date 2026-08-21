@@ -1,0 +1,29 @@
+{
+  "sites": {
+    "aykutemreyalcin.com": [
+      {
+        "up": false,
+        "code": 530,
+        "ms": 370,
+        "ts": "2026-08-21T14:10:32Z"
+      }
+    ],
+    "fosapps.com": [
+      {
+        "up": true,
+        "code": 200,
+        "ms": 528,
+        "ts": "2026-08-21T14:10:32Z"
+      }
+    ],
+    "enretag.com": [
+      {
+        "up": true,
+        "code": 200,
+        "ms": 351,
+        "ts": "2026-08-21T14:10:32Z"
+      }
+    ]
+  },
+  "updated": "2026-08-21T14:10:32Z"
+}

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Aykut Emre Yalcin &#8212; backend engineer</title>
+  <desc id="heroDesc">A terminal boot sequence next to a radar sweep locking onto project targets.</desc>
+
+  <style>
+    svg {
+      --bg: #ffffff;
+      --card: #f6f8fa;
+      --line: #d0d7de;
+      --fg: #1f2328;
+      --muted: #6e7781;
+      --accent: #4b91f1;
+      --green: #2da44e;
+      --orange: #bc4c00;
+      --sweep: #2da44e;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+        --bg: #0d1117;
+        --card: #161b22;
+        --line: #30363d;
+        --fg: #e6edf3;
+        --muted: #8b949e;
+        --accent: #64a1f4;
+        --green: #3fb950;
+        --orange: #f0883e;
+        --sweep: #39d353;
+      }
+    }
+
+    .bg      { fill: var(--bg); }
+    .card    { fill: var(--card); }
+    .stroke  { stroke: var(--line); fill: none; }
+    .fg      { fill: var(--fg); }
+    .muted   { fill: var(--muted); }
+    .accent  { fill: var(--accent); }
+    .green   { fill: var(--green); }
+    .orange  { fill: var(--orange); }
+
+    .mono    { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .t       { font-size: 12.5px; }
+    .tiny    { font-size: 9px; letter-spacing: 0.08em; }
+    .ring    { stroke: var(--line); fill: none; stroke-width: 1.2; opacity: 0.9; }
+    .grid    { stroke: var(--line); stroke-width: 1; opacity: 0.55; }
+
+    .cursor  { fill: var(--green); animation: blink 1.06s steps(1) infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+
+    .sweepWedge { fill: var(--sweep); opacity: 0.15; }
+    .sweepEdge  { stroke: var(--sweep); stroke-width: 1.5; opacity: 0.85; }
+    .blip       { fill: var(--sweep); }
+    .ping       { stroke: var(--sweep); fill: none; stroke-width: 1.5; }
+    .blipLabel  { fill: var(--fg); }
+  </style>
+
+  <defs>
+    <clipPath id="l0"><rect x="44" y="70"  width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;60;60;0;0"   keyTimes="0;0.000;0.056;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l1"><rect x="44" y="94"  width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;272;272;0;0" keyTimes="0;0.088;0.144;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l2"><rect x="44" y="118" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;190;190;0;0" keyTimes="0;0.175;0.231;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l3"><rect x="44" y="142" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;340;340;0;0" keyTimes="0;0.262;0.318;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l4"><rect x="44" y="166" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;350;350;0;0" keyTimes="0;0.350;0.406;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l5"><rect x="44" y="190" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;340;340;0;0" keyTimes="0;0.437;0.493;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l6"><rect x="44" y="214" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;196;196;0;0" keyTimes="0;0.525;0.581;0.950;0.970;1"/></rect></clipPath>
+    <clipPath id="l7"><rect x="44" y="238" width="0" height="16"><animate attributeName="width" dur="16s" repeatCount="indefinite" values="0;0;212;212;0;0" keyTimes="0;0.612;0.668;0.950;0.970;1"/></rect></clipPath>
+
+    <clipPath id="radarClip"><circle cx="676" cy="180" r="120"/></clipPath>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="880" height="340" rx="16"/>
+  <rect class="stroke" x="0.5" y="0.5" width="879" height="339" rx="16"/>
+
+  <!-- ===== terminal ===== -->
+  <rect class="card" x="24" y="24" width="440" height="292" rx="10"/>
+  <rect class="stroke" x="24.5" y="24.5" width="439" height="291" rx="10"/>
+  <line class="grid" x1="24" y1="52" x2="464" y2="52"/>
+  <circle cx="44" cy="38" r="4.5" fill="#ff5f57"/>
+  <circle cx="60" cy="38" r="4.5" fill="#febc2e"/>
+  <circle cx="76" cy="38" r="4.5" fill="#28c840"/>
+  <text class="mono tiny muted" x="96" y="42">aykut@warsaw &#8212; zsh</text>
+
+  <g class="mono t">
+    <text x="44" y="82"  clip-path="url(#l0)"><tspan class="green">$</tspan><tspan class="fg" dx="7">whoami</tspan></text>
+    <text x="44" y="106" clip-path="url(#l1)"><tspan class="fg">aykut emre yalcin</tspan><tspan class="muted" dx="7">&#183;</tspan><tspan class="accent" dx="7">backend engineer</tspan></text>
+    <text x="44" y="130" clip-path="url(#l2)"><tspan class="green">$</tspan><tspan class="fg" dx="7">systemctl status --user</tspan></text>
+    <text x="44" y="154" clip-path="url(#l3)"><tspan class="green">&#9679;</tspan><tspan class="fg" dx="7">enretag.service</tspan><tspan class="green" dx="14">active</tspan><tspan class="muted" dx="7">1.5M+ orders</tspan></text>
+    <text x="44" y="178" clip-path="url(#l4)"><tspan class="green">&#9679;</tspan><tspan class="fg" dx="7">fosapps.service</tspan><tspan class="green" dx="14">active</tspan><tspan class="muted" dx="7">5 shopify apps</tspan></text>
+    <text x="44" y="202" clip-path="url(#l5)"><tspan class="green">&#9679;</tspan><tspan class="fg" dx="7">carrier-sync.job</tspan><tspan class="orange" dx="14">running</tspan><tspan class="muted" dx="7">label + track</tspan></text>
+    <text x="44" y="226" clip-path="url(#l6)"><tspan class="green">$</tspan><tspan class="fg" dx="7">radar --scan ./projects</tspan></text>
+    <text x="44" y="250" clip-path="url(#l7)"><tspan class="accent">6 targets locked</tspan><tspan class="muted" dx="7">&#183; scanning</tspan></text>
+  </g>
+  <text class="mono t green" x="44" y="274">$</text>
+  <rect class="cursor" x="58" y="263" width="7.5" height="14"/>
+
+  <!-- ===== radar ===== -->
+  <text class="mono tiny muted" x="856" y="42" text-anchor="end">PROJECT RADAR &#183; 52.23&#176;N 21.01&#176;E</text>
+
+  <circle class="ring" cx="676" cy="180" r="120"/>
+  <circle class="ring" cx="676" cy="180" r="80"/>
+  <circle class="ring" cx="676" cy="180" r="40"/>
+  <line class="grid" x1="556" y1="180" x2="796" y2="180"/>
+  <line class="grid" x1="676" y1="60"  x2="676" y2="300"/>
+
+  <g clip-path="url(#radarClip)">
+    <g>
+      <path class="sweepWedge" d="M676,180 L676,60 A120,120 0 0,0 577.7,111.2 Z"/>
+      <line class="sweepEdge" x1="676" y1="180" x2="676" y2="60"/>
+      <animateTransform attributeName="transform" attributeType="XML" type="rotate"
+                        from="0 676 180" to="360 676 180" dur="4s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- enretag : sweep phase 0.097 -->
+  <g>
+    <circle class="ping" cx="727" cy="108" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.097;0.30;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.097;0.30;1"/>
+    </circle>
+    <circle class="blip" cx="727" cy="108" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;0.25;1;0.25;0.25" keyTimes="0;0.077;0.097;0.25;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="737" y="112">enretag</text>
+  </g>
+
+  <!-- fosapps : 0.319 -->
+  <g>
+    <circle class="ping" cx="762" cy="220" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.319;0.52;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.319;0.52;1"/>
+    </circle>
+    <circle class="blip" cx="762" cy="220" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;0.25;1;0.25;0.25" keyTimes="0;0.299;0.319;0.47;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="772" y="224">fosapps</text>
+  </g>
+
+  <!-- ata-rag-chat : 0.514 -->
+  <g>
+    <circle class="ping" cx="670" cy="252" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.514;0.72;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.514;0.72;1"/>
+    </circle>
+    <circle class="blip" cx="670" cy="252" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;0.25;1;0.25;0.25" keyTimes="0;0.494;0.514;0.66;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="680" y="256">ata-rag-chat</text>
+  </g>
+
+  <!-- boxMeter : 0.681 -->
+  <g>
+    <circle class="ping" cx="585" cy="222" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.681;0.88;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.681;0.88;1"/>
+    </circle>
+    <circle class="blip" cx="585" cy="222" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;0.25;1;0.25;0.25" keyTimes="0;0.661;0.681;0.83;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="575" y="226" text-anchor="end">boxMeter</text>
+  </g>
+
+  <!-- TorchLink : 0.833 -->
+  <g>
+    <circle class="ping" cx="609" cy="141" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.833;0.99;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.833;0.99;1"/>
+    </circle>
+    <circle class="blip" cx="609" cy="141" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;0.25;1;0.25;0.25" keyTimes="0;0.813;0.833;0.98;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="599" y="145" text-anchor="end">TorchLink</text>
+  </g>
+
+  <!-- ai_agent : 0.056 -->
+  <g>
+    <circle class="ping" cx="712" cy="81" r="4">
+      <animate attributeName="r"       dur="4s" repeatCount="indefinite" values="4;4;15;15" keyTimes="0;0.056;0.26;1"/>
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0;0.9;0;0" keyTimes="0;0.056;0.26;1"/>
+    </circle>
+    <circle class="blip" cx="712" cy="81" r="3.6">
+      <animate attributeName="opacity" dur="4s" repeatCount="indefinite" values="0.25;1;0.25;0.25" keyTimes="0;0.056;0.21;1"/>
+    </circle>
+    <text class="mono tiny blipLabel" x="722" y="85">ai_agent</text>
+  </g>
+
+  <text class="mono tiny muted" x="556" y="316">SCAN 4s</text>
+  <text class="mono tiny muted" x="796" y="316" text-anchor="end">6 CONTACTS</text>
+</svg>

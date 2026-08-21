@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="215" viewBox="0 0 880 215" role="img" aria-label="Live status of the sites I run">
+  <title>Live systems</title>
+  <style>
+    svg {
+      --bg: #ffffff;
+      --card: #f6f8fa;
+      --line: #d0d7de;
+      --fg: #1f2328;
+      --muted: #6e7781;
+      --green: #2da44e;
+      --red: #cf222e;
+      --track: #e6eaef;
+    }
+    @media (prefers-color-scheme: dark) {
+      svg {
+        --bg: #0d1117;
+        --card: #161b22;
+        --line: #30363d;
+        --fg: #e6edf3;
+        --muted: #8b949e;
+        --green: #3fb950;
+        --red: #f85149;
+        --track: #21262d;
+      }
+    }
+    .bg     { fill: var(--bg); }
+    .stroke { stroke: var(--line); fill: none; }
+    .fg     { fill: var(--fg); }
+    .muted  { fill: var(--muted); }
+    .slot   { fill: var(--track); }
+    .ok     { fill: var(--green); }
+    .bad    { fill: var(--red); }
+    .mono   { font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .name   { font-size: 12.5px; font-weight: 600; }
+    .sub    { font-size: 8.5px; letter-spacing: 0.05em; }
+    .tiny   { font-size: 9px; letter-spacing: 0.08em; }
+    .okdot  { fill: var(--green); animation: beat 2.4s ease-in-out infinite; }
+    .baddot { fill: var(--red); animation: beat 1s ease-in-out infinite; }
+    @keyframes beat { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="880" height="215" rx="16"/>
+  <rect class="stroke" x="0.5" y="0.5" width="879" height="214" rx="16"/>
+
+  <text class="mono tiny muted" x="30" y="34">LIVE SYSTEMS</text>
+  <text class="mono tiny muted" x="850" y="34" text-anchor="end">SELF HOSTED CHECK &#183; EVERY 6H</text>
+
+  <text class="mono tiny muted" x="430" y="58">LAST 7 DAYS</text>
+  <text class="mono tiny muted" x="770" y="58" text-anchor="end">UPTIME</text>
+  <text class="mono tiny muted" x="850" y="58" text-anchor="end">LATENCY</text>
+
+  <circle class="baddot" cx="36" cy="76" r="5"/>
+  <text class="mono name fg"   x="52" y="80">aykutemreyalcin.com</text>
+  <text class="mono sub muted" x="52" y="93">personal site &#183; down &#183; http 530</text>
+  <rect class="slot" x="430" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="440" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="450" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="460" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="470" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="480" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="490" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="500" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="510" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="520" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="530" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="540" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="550" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="560" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="570" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="580" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="590" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="600" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="610" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="620" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="630" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="640" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="650" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="660" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="670" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="680" y="69" width="7" height="14" rx="2"/>
+  <rect class="slot" x="690" y="69" width="7" height="14" rx="2"/>
+  <rect class="bad" x="700" y="69" width="7" height="14" rx="2"/>
+  <text class="mono tiny muted" x="770" y="80" text-anchor="end">0.0%</text>
+  <text class="mono tiny muted" x="850" y="80" text-anchor="end">--</text>
+
+  <circle class="okdot" cx="36" cy="120" r="5"/>
+  <text class="mono name fg"   x="52" y="124">fosapps.com</text>
+  <text class="mono sub muted" x="52" y="137">shopify utilities &#183; up &#183; http 200</text>
+  <rect class="slot" x="430" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="440" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="450" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="460" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="470" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="480" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="490" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="500" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="510" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="520" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="530" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="540" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="550" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="560" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="570" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="580" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="590" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="600" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="610" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="620" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="630" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="640" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="650" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="660" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="670" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="680" y="113" width="7" height="14" rx="2"/>
+  <rect class="slot" x="690" y="113" width="7" height="14" rx="2"/>
+  <rect class="ok" x="700" y="113" width="7" height="14" rx="2"/>
+  <text class="mono tiny muted" x="770" y="124" text-anchor="end">100.0%</text>
+  <text class="mono tiny muted" x="850" y="124" text-anchor="end">528 ms</text>
+
+  <circle class="okdot" cx="36" cy="164" r="5"/>
+  <text class="mono name fg"   x="52" y="168">enretag.com</text>
+  <text class="mono sub muted" x="52" y="181">fulfillment platform &#183; up &#183; http 200</text>
+  <rect class="slot" x="430" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="440" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="450" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="460" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="470" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="480" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="490" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="500" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="510" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="520" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="530" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="540" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="550" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="560" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="570" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="580" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="590" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="600" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="610" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="620" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="630" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="640" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="650" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="660" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="670" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="680" y="157" width="7" height="14" rx="2"/>
+  <rect class="slot" x="690" y="157" width="7" height="14" rx="2"/>
+  <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
+  <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">351 ms</text>
+
+  <text class="mono sub muted" x="30" y="205">last checked 2026-08-21 14:10 UTC</text>
+</svg>
