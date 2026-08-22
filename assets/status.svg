@@ -77,7 +77,7 @@
   <rect class="slot" x="640" y="69" width="7" height="14" rx="2"/>
   <rect class="slot" x="650" y="69" width="7" height="14" rx="2"/>
   <rect class="slot" x="660" y="69" width="7" height="14" rx="2"/>
-  <rect class="slot" x="670" y="69" width="7" height="14" rx="2"/>
+  <rect class="bad" x="670" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="680" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="690" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="700" y="69" width="7" height="14" rx="2"/>
@@ -111,12 +111,12 @@
   <rect class="slot" x="640" y="113" width="7" height="14" rx="2"/>
   <rect class="slot" x="650" y="113" width="7" height="14" rx="2"/>
   <rect class="slot" x="660" y="113" width="7" height="14" rx="2"/>
-  <rect class="slot" x="670" y="113" width="7" height="14" rx="2"/>
+  <rect class="ok" x="670" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="680" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="690" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="113" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="124" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="124" text-anchor="end">233 ms</text>
+  <text class="mono tiny muted" x="850" y="124" text-anchor="end">3874 ms</text>
 
   <circle class="okdot" cx="36" cy="164" r="5"/>
   <text class="mono name fg"   x="52" y="168">enretag.com</text>
@@ -145,12 +145,12 @@
   <rect class="slot" x="640" y="157" width="7" height="14" rx="2"/>
   <rect class="slot" x="650" y="157" width="7" height="14" rx="2"/>
   <rect class="slot" x="660" y="157" width="7" height="14" rx="2"/>
-  <rect class="slot" x="670" y="157" width="7" height="14" rx="2"/>
+  <rect class="ok" x="670" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="680" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="690" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="168" text-anchor="end">117 ms</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">175 ms</text>
 
-  <text class="mono sub muted" x="30" y="205">last checked 2026-08-21 18:34 UTC</text>
+  <text class="mono sub muted" x="30" y="205">last checked 2026-08-22 01:07 UTC</text>
 </svg>
