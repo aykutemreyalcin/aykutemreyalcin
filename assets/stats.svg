@@ -47,11 +47,11 @@
 
   <rect class="card" x="30" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="30.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1535</text>
+  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1565</text>
   <text class="mono sub muted" x="126" y="114" text-anchor="middle">contributions this year</text>
   <rect class="card" x="239" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="239.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="335" y="94"  text-anchor="middle">6d</text>
+  <text class="mono big accent" x="335" y="94"  text-anchor="middle">7d</text>
   <text class="mono sub muted" x="335" y="114" text-anchor="middle">current streak</text>
   <rect class="card" x="448" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="448.5" y="54.5" width="192" height="75" rx="10"/>
@@ -59,25 +59,25 @@
   <text class="mono sub muted" x="544" y="114" text-anchor="middle">longest streak</text>
   <rect class="card" x="657" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="657.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="753" y="94"  text-anchor="middle">28</text>
+  <text class="mono big accent" x="753" y="94"  text-anchor="middle">30</text>
   <text class="mono sub muted" x="753" y="114" text-anchor="middle">public repositories</text>
 
   <text class="mono tiny muted" x="30" y="156">LANGUAGE MIX</text>
   <rect class="track" x="30" y="168" width="820" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-    <rect x="30.00" y="168" width="406.98" height="12" fill="#b07219"/>
-    <rect x="436.38" y="168" width="187.09" height="12" fill="#3178c6"/>
-    <rect x="622.87" y="168" width="81.85" height="12" fill="#563d7c"/>
-    <rect x="704.12" y="168" width="69.32" height="12" fill="#f1e05a"/>
-    <rect x="772.84" y="168" width="52.54" height="12" fill="#3572A5"/>
-    <rect x="824.78" y="168" width="9.73" height="12" fill="#e34c26"/>
-    <rect x="833.91" y="168" width="16.69" height="12" fill="#8b949e"/>
+    <rect x="30.00" y="168" width="426.23" height="12" fill="#b07219"/>
+    <rect x="455.63" y="168" width="178.39" height="12" fill="#3178c6"/>
+    <rect x="633.42" y="168" width="79.10" height="12" fill="#563d7c"/>
+    <rect x="711.92" y="168" width="65.53" height="12" fill="#f1e05a"/>
+    <rect x="776.85" y="168" width="49.67" height="12" fill="#3572A5"/>
+    <rect x="825.92" y="168" width="9.49" height="12" fill="#e34c26"/>
+    <rect x="834.80" y="168" width="15.80" height="12" fill="#8b949e"/>
   </g>
-  <circle cx="34" cy="206" r="4" fill="#b07219"/><text class="mono sub fg" x="44" y="209">Java</text><text class="mono sub muted" x="72" y="209">49.6%</text>
-  <circle cx="152" cy="206" r="4" fill="#3178c6"/><text class="mono sub fg" x="162" y="209">TypeScript</text><text class="mono sub muted" x="223" y="209">22.7%</text>
-  <circle cx="270" cy="206" r="4" fill="#563d7c"/><text class="mono sub fg" x="280" y="209">CSS</text><text class="mono sub muted" x="303" y="209">9.9%</text>
-  <circle cx="388" cy="206" r="4" fill="#f1e05a"/><text class="mono sub fg" x="398" y="209">JavaScript</text><text class="mono sub muted" x="459" y="209">8.4%</text>
-  <circle cx="506" cy="206" r="4" fill="#3572A5"/><text class="mono sub fg" x="516" y="209">Python</text><text class="mono sub muted" x="555" y="209">6.3%</text>
+  <circle cx="34" cy="206" r="4" fill="#b07219"/><text class="mono sub fg" x="44" y="209">Java</text><text class="mono sub muted" x="72" y="209">51.9%</text>
+  <circle cx="152" cy="206" r="4" fill="#3178c6"/><text class="mono sub fg" x="162" y="209">TypeScript</text><text class="mono sub muted" x="223" y="209">21.7%</text>
+  <circle cx="270" cy="206" r="4" fill="#563d7c"/><text class="mono sub fg" x="280" y="209">CSS</text><text class="mono sub muted" x="303" y="209">9.6%</text>
+  <circle cx="388" cy="206" r="4" fill="#f1e05a"/><text class="mono sub fg" x="398" y="209">JavaScript</text><text class="mono sub muted" x="459" y="209">7.9%</text>
+  <circle cx="506" cy="206" r="4" fill="#3572A5"/><text class="mono sub fg" x="516" y="209">Python</text><text class="mono sub muted" x="555" y="209">6.0%</text>
   <circle cx="624" cy="206" r="4" fill="#e34c26"/><text class="mono sub fg" x="634" y="209">HTML</text><text class="mono sub muted" x="662" y="209">1.1%</text>
-  <circle cx="742" cy="206" r="4" fill="#8b949e"/><text class="mono sub fg" x="752" y="209">other</text><text class="mono sub muted" x="786" y="209">2.0%</text>
+  <circle cx="742" cy="206" r="4" fill="#8b949e"/><text class="mono sub fg" x="752" y="209">other</text><text class="mono sub muted" x="786" y="209">1.9%</text>
 </svg>
