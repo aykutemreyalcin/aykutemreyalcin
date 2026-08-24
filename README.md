@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 40m ago` merged pull request #8 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 40m ago` opened pull request #8 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 40m ago` created branch `feat/BE-006-ingest-job` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 52m ago` merged pull request #7 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 52m ago` opened pull request #7 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  2h ago` merged pull request #10 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` opened pull request #10 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` created branch `feat/FE-009-ci` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` merged pull request #9 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` opened pull request #9 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 <!-- pulse:activity:end -->
 
 ---
