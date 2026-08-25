@@ -62,7 +62,7 @@
   <rect class="slot" x="490" y="69" width="7" height="14" rx="2"/>
   <rect class="slot" x="500" y="69" width="7" height="14" rx="2"/>
   <rect class="slot" x="510" y="69" width="7" height="14" rx="2"/>
-  <rect class="slot" x="520" y="69" width="7" height="14" rx="2"/>
+  <rect class="bad" x="520" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="530" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="540" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="550" y="69" width="7" height="14" rx="2"/>
@@ -96,7 +96,7 @@
   <rect class="slot" x="490" y="113" width="7" height="14" rx="2"/>
   <rect class="slot" x="500" y="113" width="7" height="14" rx="2"/>
   <rect class="slot" x="510" y="113" width="7" height="14" rx="2"/>
-  <rect class="slot" x="520" y="113" width="7" height="14" rx="2"/>
+  <rect class="ok" x="520" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="530" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="540" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="550" y="113" width="7" height="14" rx="2"/>
@@ -116,7 +116,7 @@
   <rect class="ok" x="690" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="113" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="124" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="124" text-anchor="end">3314 ms</text>
+  <text class="mono tiny muted" x="850" y="124" text-anchor="end">3782 ms</text>
 
   <circle class="okdot" cx="36" cy="164" r="5"/>
   <text class="mono name fg"   x="52" y="168">enretag.com</text>
@@ -130,7 +130,7 @@
   <rect class="slot" x="490" y="157" width="7" height="14" rx="2"/>
   <rect class="slot" x="500" y="157" width="7" height="14" rx="2"/>
   <rect class="slot" x="510" y="157" width="7" height="14" rx="2"/>
-  <rect class="slot" x="520" y="157" width="7" height="14" rx="2"/>
+  <rect class="ok" x="520" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="530" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="540" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="550" y="157" width="7" height="14" rx="2"/>
@@ -150,7 +150,7 @@
   <rect class="ok" x="690" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="168" text-anchor="end">233 ms</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">122 ms</text>
 
-  <text class="mono sub muted" x="30" y="205">last checked 2026-08-25 12:43 UTC</text>
+  <text class="mono sub muted" x="30" y="205">last checked 2026-08-25 18:36 UTC</text>
 </svg>
