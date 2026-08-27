@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 12h ago` created branch `feat/admin-create-user-and-change-password` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 12h ago` created branch `feat/admin-create-user-and-change-password` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 13h ago` created branch `feat/jwt-login-and-feed-ui` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  9h ago` merged pull request #16 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  9h ago` merged pull request #16 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1d ago` created branch `feat/jwt-auth-and-listing-analytics` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  2h ago` merged pull request #27 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` opened pull request #27 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` merged pull request #24 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  2h ago` opened pull request #24 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 <!-- pulse:activity:end -->
 
 ---
