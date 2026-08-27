@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 50m ago` merged pull request #12 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 51m ago` merged pull request #14 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 55m ago` opened pull request #12 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 55m ago` opened pull request #14 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  1h ago` merged pull request #11 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- ` 12h ago` created branch `feat/admin-create-user-and-change-password` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- ` 12h ago` created branch `feat/admin-create-user-and-change-password` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- ` 13h ago` created branch `feat/jwt-login-and-feed-ui` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  9h ago` merged pull request #16 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  9h ago` merged pull request #16 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 <!-- pulse:activity:end -->
 
 ---
