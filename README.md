@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
+- `  1d ago` created branch `fix/etsy-bestseller-public-api` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` created branch `feat/multi-window-momentum` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 - `  1d ago` created branch `feat/multi-window-momentum` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 - `  1d ago` created branch `feat/momentum-segmented-bar` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 - `  1d ago` created branch `feat/row-click-expand` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  1d ago` created branch `feat/top-momentum-chart-api` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  1d ago` created branch `fix/deploy-health-retry` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 <!-- pulse:activity:end -->
 
 ---

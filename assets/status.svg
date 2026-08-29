@@ -53,7 +53,7 @@
   <circle class="baddot" cx="36" cy="76" r="5"/>
   <text class="mono name fg"   x="52" y="80">aykutemreyalcin.com</text>
   <text class="mono sub muted" x="52" y="93">personal site &#183; down &#183; http 530</text>
-  <rect class="slot" x="430" y="69" width="7" height="14" rx="2"/>
+  <rect class="bad" x="430" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="440" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="450" y="69" width="7" height="14" rx="2"/>
   <rect class="bad" x="460" y="69" width="7" height="14" rx="2"/>
@@ -87,7 +87,7 @@
   <circle class="okdot" cx="36" cy="120" r="5"/>
   <text class="mono name fg"   x="52" y="124">fosapps.com</text>
   <text class="mono sub muted" x="52" y="137">shopify utilities &#183; up &#183; http 200</text>
-  <rect class="slot" x="430" y="113" width="7" height="14" rx="2"/>
+  <rect class="ok" x="430" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="440" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="450" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="460" y="113" width="7" height="14" rx="2"/>
@@ -116,12 +116,12 @@
   <rect class="ok" x="690" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="113" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="124" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="124" text-anchor="end">3395 ms</text>
+  <text class="mono tiny muted" x="850" y="124" text-anchor="end">3740 ms</text>
 
   <circle class="okdot" cx="36" cy="164" r="5"/>
   <text class="mono name fg"   x="52" y="168">enretag.com</text>
   <text class="mono sub muted" x="52" y="181">fulfillment platform &#183; up &#183; http 200</text>
-  <rect class="slot" x="430" y="157" width="7" height="14" rx="2"/>
+  <rect class="ok" x="430" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="440" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="450" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="460" y="157" width="7" height="14" rx="2"/>
@@ -150,7 +150,7 @@
   <rect class="ok" x="690" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="168" text-anchor="end">46 ms</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">89 ms</text>
 
-  <text class="mono sub muted" x="30" y="205">last checked 2026-08-28 21:43 UTC</text>
+  <text class="mono sub muted" x="30" y="205">last checked 2026-08-29 05:42 UTC</text>
 </svg>
