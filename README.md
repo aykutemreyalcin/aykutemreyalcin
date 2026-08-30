@@ -43,7 +43,7 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- `  1d ago` created branch `feat/remove-compare-fix-chart-lines` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2d ago` created branch `feat/remove-compare-fix-chart-lines` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 - `  2d ago` created branch `fix/etsy-bestseller-public-api` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 - `  2d ago` created branch `feat/multi-window-momentum` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 - `  2d ago` created branch `feat/multi-window-momentum` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
