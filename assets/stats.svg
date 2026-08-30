@@ -47,7 +47,7 @@
 
   <rect class="card" x="30" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="30.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1716</text>
+  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1717</text>
   <text class="mono sub muted" x="126" y="114" text-anchor="middle">contributions this year</text>
   <rect class="card" x="239" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="239.5" y="54.5" width="192" height="75" rx="10"/>
