@@ -47,11 +47,11 @@
 
   <rect class="card" x="30" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="30.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1722</text>
+  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1735</text>
   <text class="mono sub muted" x="126" y="114" text-anchor="middle">contributions this year</text>
   <rect class="card" x="239" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="239.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="335" y="94"  text-anchor="middle">8d</text>
+  <text class="mono big accent" x="335" y="94"  text-anchor="middle">9d</text>
   <text class="mono sub muted" x="335" y="114" text-anchor="middle">current streak</text>
   <rect class="card" x="448" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="448.5" y="54.5" width="192" height="75" rx="10"/>
@@ -65,19 +65,19 @@
   <text class="mono tiny muted" x="30" y="156">LANGUAGE MIX</text>
   <rect class="track" x="30" y="168" width="820" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-    <rect x="30.00" y="168" width="420.43" height="12" fill="#b07219"/>
-    <rect x="449.83" y="168" width="227.29" height="12" fill="#3178c6"/>
-    <rect x="676.52" y="168" width="71.97" height="12" fill="#563d7c"/>
-    <rect x="747.89" y="168" width="48.47" height="12" fill="#f1e05a"/>
-    <rect x="795.76" y="168" width="31.73" height="12" fill="#3572A5"/>
-    <rect x="826.89" y="168" width="14.07" height="12" fill="#e34c26"/>
-    <rect x="840.36" y="168" width="10.24" height="12" fill="#8b949e"/>
+    <rect x="30.00" y="168" width="439.74" height="12" fill="#b07219"/>
+    <rect x="469.14" y="168" width="216.35" height="12" fill="#3178c6"/>
+    <rect x="684.89" y="168" width="68.53" height="12" fill="#563d7c"/>
+    <rect x="752.82" y="168" width="46.16" height="12" fill="#f1e05a"/>
+    <rect x="798.38" y="168" width="30.23" height="12" fill="#3572A5"/>
+    <rect x="828.01" y="168" width="13.42" height="12" fill="#e34c26"/>
+    <rect x="840.82" y="168" width="9.78" height="12" fill="#8b949e"/>
   </g>
-  <circle cx="34" cy="206" r="4" fill="#b07219"/><text class="mono sub fg" x="44" y="209">Java</text><text class="mono sub muted" x="72" y="209">51.2%</text>
-  <circle cx="152" cy="206" r="4" fill="#3178c6"/><text class="mono sub fg" x="162" y="209">TypeScript</text><text class="mono sub muted" x="223" y="209">27.6%</text>
-  <circle cx="270" cy="206" r="4" fill="#563d7c"/><text class="mono sub fg" x="280" y="209">CSS</text><text class="mono sub muted" x="303" y="209">8.7%</text>
-  <circle cx="388" cy="206" r="4" fill="#f1e05a"/><text class="mono sub fg" x="398" y="209">JavaScript</text><text class="mono sub muted" x="459" y="209">5.8%</text>
-  <circle cx="506" cy="206" r="4" fill="#3572A5"/><text class="mono sub fg" x="516" y="209">Python</text><text class="mono sub muted" x="555" y="209">3.8%</text>
+  <circle cx="34" cy="206" r="4" fill="#b07219"/><text class="mono sub fg" x="44" y="209">Java</text><text class="mono sub muted" x="72" y="209">53.6%</text>
+  <circle cx="152" cy="206" r="4" fill="#3178c6"/><text class="mono sub fg" x="162" y="209">TypeScript</text><text class="mono sub muted" x="223" y="209">26.3%</text>
+  <circle cx="270" cy="206" r="4" fill="#563d7c"/><text class="mono sub fg" x="280" y="209">CSS</text><text class="mono sub muted" x="303" y="209">8.3%</text>
+  <circle cx="388" cy="206" r="4" fill="#f1e05a"/><text class="mono sub fg" x="398" y="209">JavaScript</text><text class="mono sub muted" x="459" y="209">5.6%</text>
+  <circle cx="506" cy="206" r="4" fill="#3572A5"/><text class="mono sub fg" x="516" y="209">Python</text><text class="mono sub muted" x="555" y="209">3.6%</text>
   <circle cx="624" cy="206" r="4" fill="#e34c26"/><text class="mono sub fg" x="634" y="209">HTML</text><text class="mono sub muted" x="662" y="209">1.6%</text>
-  <circle cx="742" cy="206" r="4" fill="#8b949e"/><text class="mono sub fg" x="752" y="209">other</text><text class="mono sub muted" x="786" y="209">1.2%</text>
+  <circle cx="742" cy="206" r="4" fill="#8b949e"/><text class="mono sub fg" x="752" y="209">other</text><text class="mono sub muted" x="786" y="209">1.1%</text>
 </svg>
