@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 10m ago` merged pull request #26 in [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
-- ` 11m ago` opened pull request #26 in [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
-- `  3d ago` created branch `fix/niche-reindex-fk` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  3d ago` merged pull request #28 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  3d ago` opened pull request #28 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- ` 26m ago` merged pull request #29 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- ` 26m ago` opened pull request #29 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  4h ago` merged pull request #37 in [`internship_application_coordinator_fe`](https://github.com/aykutemreyalcin/internship_application_coordinator_fe)
+- `  4h ago` opened pull request #37 in [`internship_application_coordinator_fe`](https://github.com/aykutemreyalcin/internship_application_coordinator_fe)
+- `  5h ago` merged pull request #27 in [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
 <!-- pulse:activity:end -->
 
 ---
