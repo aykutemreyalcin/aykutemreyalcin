@@ -47,11 +47,11 @@
 
   <rect class="card" x="30" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="30.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1813</text>
+  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1818</text>
   <text class="mono sub muted" x="126" y="114" text-anchor="middle">contributions this year</text>
   <rect class="card" x="239" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="239.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="335" y="94"  text-anchor="middle">9d</text>
+  <text class="mono big accent" x="335" y="94"  text-anchor="middle">10d</text>
   <text class="mono sub muted" x="335" y="114" text-anchor="middle">current streak</text>
   <rect class="card" x="448" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="448.5" y="54.5" width="192" height="75" rx="10"/>
