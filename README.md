@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 16h ago` created branch `be/internship-documents` on [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
-- `  7h ago` merged pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  7h ago` opened pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  7h ago` merged pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  7h ago` opened pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1d ago` created branch `be/internship-documents` on [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
+- ` 15h ago` merged pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- ` 15h ago` opened pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- ` 15h ago` merged pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- ` 15h ago` opened pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 <!-- pulse:activity:end -->
 
 ---
