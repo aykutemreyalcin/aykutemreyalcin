@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
+- `  1d ago` created branch `fix/expand-panel-links-under-image` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1d ago` created branch `feat/niche-page-search` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1d ago` created branch `feat/niche-search-q` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 - `  1d ago` created branch `be/internship-documents` on [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
-- ` 20h ago` merged pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 20h ago` opened pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 20h ago` merged pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- ` 20h ago` opened pull request #35 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1d ago` merged pull request #36 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 <!-- pulse:activity:end -->
 
 ---
