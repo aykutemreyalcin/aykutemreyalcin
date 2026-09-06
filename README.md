@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
+- `  2d ago` created branch `fix/nav-favorites-badge-align` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2d ago` created branch `feat/feed-layout-simplify` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2d ago` created branch `fix/feed-preset-type` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 - `  2d ago` created branch `fix/feed-toolbar-export` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 - `  2d ago` created branch `fix/charts-normalize-position-window` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  2d ago` created branch `fix/niche-slug-collision` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  2d ago` created branch `fix/expand-panel-links-under-image` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  2d ago` created branch `feat/niche-page-search` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
 <!-- pulse:activity:end -->
 
 ---
