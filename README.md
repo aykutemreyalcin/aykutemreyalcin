@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 23h ago` merged pull request #33 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 23h ago` opened pull request #33 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 23h ago` created branch `fix/period-metrics-tests` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 23h ago` merged pull request #32 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 23h ago` opened pull request #32 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` merged pull request #33 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` opened pull request #33 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` created branch `fix/period-metrics-tests` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` merged pull request #32 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1d ago` opened pull request #32 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 <!-- pulse:activity:end -->
 
 ---
