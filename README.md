@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- `  2m ago` merged pull request #34 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 21m ago` opened pull request #34 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 21m ago` created branch `fix/ingest-crash-and-bestseller-compliance` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- `  7d ago` created branch `feat/period-aware-metrics` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
-- `  7d ago` created branch `feat/period-aware-metrics` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  1h ago` merged pull request #40 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1h ago` opened pull request #40 in [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  1h ago` created branch `fix/noindex-app-shell` on [`printmomentum_fe`](https://github.com/aykutemreyalcin/printmomentum_fe)
+- `  2h ago` merged pull request #35 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- `  2h ago` opened pull request #35 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
 <!-- pulse:activity:end -->
 
 ---
