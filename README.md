@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 17h ago` merged pull request #35 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 17h ago` opened pull request #35 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 17h ago` created branch `feat/tiered-refresh-catchup-keepalive` on [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 20h ago` merged pull request #34 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
-- ` 20h ago` opened pull request #34 in [`printmomentum_be`](https://github.com/aykutemreyalcin/printmomentum_be)
+- ` 11d ago` created branch `be/internship-documents` on [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
+- ` 11d ago` merged pull request #37 in [`internship_application_coordinator_fe`](https://github.com/aykutemreyalcin/internship_application_coordinator_fe)
+- ` 11d ago` opened pull request #37 in [`internship_application_coordinator_fe`](https://github.com/aykutemreyalcin/internship_application_coordinator_fe)
+- ` 11d ago` merged pull request #27 in [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
+- ` 11d ago` opened pull request #27 in [`internship_application_coordinator_be`](https://github.com/aykutemreyalcin/internship_application_coordinator_be)
 <!-- pulse:activity:end -->
 
 ---
