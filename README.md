@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 16h ago` made [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe) public
-- ` 15h ago` merged pull request #7 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 15h ago` opened pull request #7 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 15h ago` created branch `fix/docker-build-image` on [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 16h ago` made [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be) public
+- `  4h ago` merged pull request #8 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
+- `  4h ago` opened pull request #8 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
+- `  4h ago` merged pull request #5 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  4h ago` opened pull request #5 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- ` 21h ago` made [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe) public
 <!-- pulse:activity:end -->
 
 ---

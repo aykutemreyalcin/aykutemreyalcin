@@ -150,7 +150,7 @@
   <rect class="ok" x="690" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="168" text-anchor="end">159 ms</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">77 ms</text>
 
-  <text class="mono sub muted" x="30" y="205">last checked 2026-09-20 15:28 UTC</text>
+  <text class="mono sub muted" x="30" y="205">last checked 2026-09-20 20:21 UTC</text>
 </svg>
