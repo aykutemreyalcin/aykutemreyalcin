@@ -47,11 +47,11 @@
 
   <rect class="card" x="30" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="30.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1959</text>
+  <text class="mono big accent" x="126" y="94"  text-anchor="middle">1981</text>
   <text class="mono sub muted" x="126" y="114" text-anchor="middle">contributions this year</text>
   <rect class="card" x="239" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="239.5" y="54.5" width="192" height="75" rx="10"/>
-  <text class="mono big accent" x="335" y="94"  text-anchor="middle">2d</text>
+  <text class="mono big accent" x="335" y="94"  text-anchor="middle">3d</text>
   <text class="mono sub muted" x="335" y="114" text-anchor="middle">current streak</text>
   <rect class="card" x="448" y="54" width="193" height="76" rx="10"/>
   <rect class="stroke" x="448.5" y="54.5" width="192" height="75" rx="10"/>
@@ -65,13 +65,13 @@
   <text class="mono tiny muted" x="30" y="156">LANGUAGE MIX</text>
   <rect class="track" x="30" y="168" width="820" height="12" rx="6"/>
   <g clip-path="url(#barClip)">
-    <rect x="30.00" y="168" width="401.05" height="12" fill="#b07219"/>
-    <rect x="430.45" y="168" width="197.93" height="12" fill="#3178c6"/>
-    <rect x="627.79" y="168" width="86.49" height="12" fill="#563d7c"/>
-    <rect x="713.68" y="168" width="64.57" height="12" fill="#f1e05a"/>
-    <rect x="777.64" y="168" width="41.65" height="12" fill="#3572A5"/>
-    <rect x="818.69" y="168" width="18.59" height="12" fill="#e34c26"/>
-    <rect x="836.68" y="168" width="13.92" height="12" fill="#8b949e"/>
+    <rect x="30.00" y="168" width="400.82" height="12" fill="#b07219"/>
+    <rect x="430.22" y="168" width="198.61" height="12" fill="#3178c6"/>
+    <rect x="628.23" y="168" width="86.32" height="12" fill="#563d7c"/>
+    <rect x="713.95" y="168" width="64.44" height="12" fill="#f1e05a"/>
+    <rect x="777.79" y="168" width="41.57" height="12" fill="#3572A5"/>
+    <rect x="818.75" y="168" width="18.56" height="12" fill="#e34c26"/>
+    <rect x="836.71" y="168" width="13.89" height="12" fill="#8b949e"/>
   </g>
   <circle cx="34" cy="206" r="4" fill="#b07219"/><text class="mono sub fg" x="44" y="209">Java</text><text class="mono sub muted" x="72" y="209">48.8%</text>
   <circle cx="152" cy="206" r="4" fill="#3178c6"/><text class="mono sub fg" x="162" y="209">TypeScript</text><text class="mono sub muted" x="223" y="209">24.1%</text>

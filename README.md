@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 19h ago` created branch `fix/dataset-api-endpoints` on [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 19h ago` created branch `fix/frontend-quality-checks` on [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
-- ` 19h ago` merged pull request #8 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 19h ago` opened pull request #8 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 19h ago` merged pull request #5 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  9h ago` created branch `fix/live-backend-indicator` on [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  9h ago` created branch `chore/richer-demo-fixtures` on [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  9h ago` created branch `fix/frontend-cors` on [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
+- `  9h ago` merged pull request #7 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  9h ago` opened pull request #7 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
 <!-- pulse:activity:end -->
 
 ---
