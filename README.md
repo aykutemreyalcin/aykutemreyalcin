@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 16h ago` merged pull request #10 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 16h ago` merged pull request #8 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
-- ` 16h ago` opened pull request #8 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
-- ` 16h ago` opened pull request #10 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
-- ` 16h ago` created branch `ci/frontend-quality-gate` on [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  1d ago` merged pull request #10 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
+- `  1d ago` merged pull request #8 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  1d ago` opened pull request #8 in [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
+- `  1d ago` opened pull request #10 in [`ai-evaluation-platform-be`](https://github.com/aykutemreyalcin/ai-evaluation-platform-be)
+- `  1d ago` created branch `ci/frontend-quality-gate` on [`ai-evaluation-platform-fe`](https://github.com/aykutemreyalcin/ai-evaluation-platform-fe)
 <!-- pulse:activity:end -->
 
 ---
