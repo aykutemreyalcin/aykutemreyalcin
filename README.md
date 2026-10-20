@@ -43,11 +43,11 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 23h ago` created branch `fix/og-image-14day` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 22h ago` merged pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 22h ago` opened pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 22h ago` created branch `feat/phrase-check-match-type` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 23h ago` merged pull request #11 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  1d ago` created branch `fix/og-image-14day` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  1d ago` merged pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  1d ago` opened pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  1d ago` created branch `feat/phrase-check-match-type` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  1d ago` merged pull request #11 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 <!-- pulse:activity:end -->
 
 ---
