@@ -46,8 +46,8 @@ broken right now.
 - `  3d ago` created branch `feat/newsletter-signup-box` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 - `  3d ago` merged pull request #13 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 - `  3d ago` opened pull request #13 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- `  4d ago` created branch `fix/og-image-14day` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- `  4d ago` merged pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  5d ago` created branch `fix/og-image-14day` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- `  5d ago` merged pull request #12 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 <!-- pulse:activity:end -->
 
 ---
