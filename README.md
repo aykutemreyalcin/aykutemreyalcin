@@ -43,10 +43,10 @@ broken right now.
 ## Recent transmissions
 
 <!-- pulse:activity:start -->
-- ` 27m ago` merged pull request #15 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 25m ago` merged pull request #16 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 25m ago` opened pull request #16 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
-- ` 28m ago` opened pull request #15 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- ` 10h ago` merged pull request #15 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- ` 10h ago` merged pull request #16 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- ` 10h ago` opened pull request #16 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
+- ` 10h ago` opened pull request #15 in [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 - `  1d ago` created branch `phrase-result-cta` on [`printmomentum_landing`](https://github.com/aykutemreyalcin/printmomentum_landing)
 <!-- pulse:activity:end -->
 
