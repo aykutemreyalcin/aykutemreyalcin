@@ -82,7 +82,7 @@
   <rect class="ok" x="690" y="69" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="69" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="80" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="80" text-anchor="end">142 ms</text>
+  <text class="mono tiny muted" x="850" y="80" text-anchor="end">198 ms</text>
 
   <circle class="baddot" cx="36" cy="120" r="5"/>
   <text class="mono name fg"   x="52" y="124">fosapps.com</text>
@@ -106,16 +106,16 @@
   <rect class="ok" x="590" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="600" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="610" y="113" width="7" height="14" rx="2"/>
-  <rect class="ok" x="620" y="113" width="7" height="14" rx="2"/>
-  <rect class="bad" x="630" y="113" width="7" height="14" rx="2"/>
+  <rect class="bad" x="620" y="113" width="7" height="14" rx="2"/>
+  <rect class="ok" x="630" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="640" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="650" y="113" width="7" height="14" rx="2"/>
   <rect class="ok" x="660" y="113" width="7" height="14" rx="2"/>
-  <rect class="ok" x="670" y="113" width="7" height="14" rx="2"/>
+  <rect class="bad" x="670" y="113" width="7" height="14" rx="2"/>
   <rect class="bad" x="680" y="113" width="7" height="14" rx="2"/>
   <rect class="bad" x="690" y="113" width="7" height="14" rx="2"/>
   <rect class="bad" x="700" y="113" width="7" height="14" rx="2"/>
-  <text class="mono tiny muted" x="770" y="124" text-anchor="end">85.7%</text>
+  <text class="mono tiny muted" x="770" y="124" text-anchor="end">82.1%</text>
   <text class="mono tiny muted" x="850" y="124" text-anchor="end">--</text>
 
   <circle class="okdot" cx="36" cy="164" r="5"/>
@@ -150,7 +150,7 @@
   <rect class="ok" x="690" y="157" width="7" height="14" rx="2"/>
   <rect class="ok" x="700" y="157" width="7" height="14" rx="2"/>
   <text class="mono tiny muted" x="770" y="168" text-anchor="end">100.0%</text>
-  <text class="mono tiny muted" x="850" y="168" text-anchor="end">61 ms</text>
+  <text class="mono tiny muted" x="850" y="168" text-anchor="end">132 ms</text>
 
-  <text class="mono sub muted" x="30" y="205">last checked 2026-11-05 05:12 UTC</text>
+  <text class="mono sub muted" x="30" y="205">last checked 2026-11-05 14:00 UTC</text>
 </svg>
